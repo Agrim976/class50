@@ -1,0 +1,27 @@
+h1{
+    color:rgb(79, 177, 209);
+}
+h2{
+    color:#3c68c5
+}
+p{
+    color:#7eb11f
+}
+body{
+    background-color:lightblue;
+}
+.header{
+   background-color:rgba(16, 116, 209, 0.829);
+   border:3px solid rgba(16, 116, 209, 0.829); 
+   display:flex;
+   justify-content:space-around;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:start;
+}
+.footer{
+    display:flex;
+    justify-content:center;
+}
